@@ -270,7 +270,7 @@ export default function Valentine() {
         fontFamily: '"Quicksand", sans-serif',
         fontStyle: 'italic'
       }}>
-        {yesSize > 1.5 ? '👀 The Yes button is getting bigger...' : 'Hint: Try hovering over the No button!'}
+        {yesSize > 1.5 ? '👀 The Yes button is getting bigger...'}
       </p>
     </div>
   );
